@@ -1,9 +1,9 @@
 # Setup
-title: myblog
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: My blog
+description: A simple blog.
 url: hisir0909.github.io
 avatar: /avatar.jpeg
-paginate: 5
+paginate: 
 permalink: pretty
 cover_image: /bg.jpeg
 
