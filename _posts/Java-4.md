@@ -64,5 +64,3 @@ public class TestPoint{
 }
 
 ```
-
-![capture_20210915222636457](D:\SoftwareData\Nutstore\Cloud\我的坚果云\1_Work\material\capture_20210915222636457.bmp)
