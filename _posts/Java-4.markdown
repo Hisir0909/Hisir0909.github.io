@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "作业"
-data: 2021-9-22 23:13:55 CST
-categories: java
+title: "你好"
+data: 2021-9-21 22:13:55 CST
+categories: shell
 ---
 * 面向对象程序设计的三个特性？
 封装性，多态性，继承性
