@@ -50,6 +50,7 @@ public class Point{
 ```
 * Point类有一个构造方法，不带参数，为x, y设置原点值。
 另一个类为TestPoint，有一个main()方法，用来对Point类的实例进行测试。要求为其实例设置(0,0)坐标点，再移动到(10, 20)坐标点上，并输出实例调用相应的方法的结果
+
 ```java
 public class TestPoint{
     public static void main(String[] args){
@@ -64,3 +65,4 @@ public class TestPoint{
 }
 
 ```
+结束啦
